@@ -241,4 +241,4 @@ This repository serves as the official landing page for Packetyzer. The software
 **Get the most recent version of Packetyzer today!**
 
 ---
-**Last updated:** 2026-11-06 06:22:02 UTC
+**Last updated:** 2026-11-06 14:51:58 UTC
